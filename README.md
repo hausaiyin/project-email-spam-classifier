@@ -1,4 +1,4 @@
-# project-email-spam-classifier
+# project-email-spam-classifier using LR
 
 Dataset 
 
